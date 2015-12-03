@@ -1,8 +1,8 @@
 {
-  "name": "angular-material-starter",
-  "description": "A starter project for AngularJS Material",
-  "version": "0.0.2",
-  "homepage": "https://github.com/angular/material-start",
+  "name": "dockerized-material-start",
+  "description": "A dockerized AngularJS Material seed template",
+  "version": "0.0.1",
+  "homepage": "https://github.com/scottbcovert/dockerized-material-start",
   "license": "MIT",
   "private": true,
   "dependencies": {
